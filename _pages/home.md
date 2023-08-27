@@ -8,7 +8,7 @@ header:
   actions:
     - label: "<i class='fas fa-download'></i> Free download"
       url: "/download/"
-excerpt: 'User interface that allows you to have<br/>full control over discussions with your AI.<br/>'
+excerpt: 'User interface that allows you to have full control over discussions with your AI.<br/>'
 intro: 
   - excerpt: "**Use your own API access** to state&#8209;of&#8209;the&#8209;art AI models efficiently with this user interface. For example, you can have discussions with **OpenAI's GPT&#8209;4**, have your speech converted to text using their capable **Whisper** model and discussion converted to lifelike speech audio using the **ElevenLabs** service."
 feature_model_input:
