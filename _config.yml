@@ -49,6 +49,9 @@ author:
   avatar : "/assets/images/avatar.webp"
   bio    : "Author of AI Sparks Studio"
 
+analytics:
+  provider: "custom"
+
 defaults:
   # _posts
   - scope:
