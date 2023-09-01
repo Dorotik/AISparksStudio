@@ -17,7 +17,9 @@ Supported operating systems:
 :   Windows 10 (64-bit)
 :   Windows 11
 
-[<i class='fas fa-download'></i> AISparksStudioSetup.exe](/assets/AISparksStudioSetup.exe){: .btn .btn--success .btn--large onclick="window.goatcounter.count({path: 'download', title: 'Download Clicked', event: true})"}
+<a href="/assets/AISparksStudioSetup.exe" class="btn btn--success btn--large" onclick="window.goatcounter.count({path: 'download', title: 'Download Clicked', event: true})">
+  <i class='fas fa-download'></i> AISparksStudioSetup.exe
+</a>
 
 AI Sparks Studio is a free, non-monetized passion project and, as such, **does not carry an expensive signature from a certification authority**. This lack of certification may trigger warnings from the [Microsoft SmartScreen filter](https://en.wikipedia.org/wiki/Microsoft_SmartScreen) and various antivirus software. 
 
