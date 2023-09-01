@@ -7,9 +7,9 @@ header:
   overlay_image: /assets/images/splash-page-main.webp
 ---
 
-Thank you for your interest in AI Sparks Studio! Know that it's **completely free, without any ads or spyware.**
+Thank you for choosing AI Sparks Studio! This application is **completely free, without any ads or spyware.**
 
-As a solo-developer passion project, the application lacks extensive testing and features that perhaps many people would find essential. **Any feedback is welcome** at <span id="email"></span>
+As a passion project by a solo developer, AI Sparks Studio may lack certain features or extensive testing. Your feedback is always welcome at <span id="email"></span>
 
 Supported operating systems:
 :   Windows 10 (64-bit)
@@ -17,9 +17,11 @@ Supported operating systems:
 
 [<i class='fas fa-download'></i> AISparksStudioSetup.exe](/assets/AISparksStudioSetup.exe){: .btn .btn--success .btn--large}
 
-As a free non-monetized passion project, AI Sparks Studio **lacks an expensive signature from a certification authority**. This automatically makes it untrustworty by [Microsoft SmartScreen filter](https://en.wikipedia.org/wiki/Microsoft_SmartScreen) and various antivirus software. If you decide to trust this application but Windows doesn't allow you to install it, click *More info* and *Run anyway*, as shown in the example below:
+AI Sparks Studio is a free, non-monetized passion project and, as such, **does not carry an expensive signature from a certification authority**. This lack of certification may trigger warnings from the [Microsoft SmartScreen filter](https://en.wikipedia.org/wiki/Microsoft_SmartScreen) and various antivirus software. 
 
-![test](/assets/images/SmartScreenHelp.webp)
+If you trust this application and wish to proceed with the installation but Windows blocks the process, click *More info* and then *Run anyway*, as shown in the example below:
+
+![Example of how to bypass the Microsoft SmartScreen filter](/assets/images/SmartScreenHelp.webp)
 
 
 <script>
