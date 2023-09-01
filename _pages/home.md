@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/splash-page-main.webp
   actions:
     - label: "<i class='fas fa-download'></i> Free Download"
-      url: "/download/"
+      url: "/download-ai-sparks-studio/"
 excerpt: 'Experience full control over discussions with your AI.'
 intro: 
   - excerpt: "AI Sparks Studio is **a user interface** that allows you to **efficiently utilize your own API access** to state&#8209;of&#8209;the&#8209;art AI models.<br/><br/>Engage in expert discussions with AI models like **OpenAI's ChatGPT or GPT&#8209;4**, have your speech converted to text using the capable **Whisper** model, and transform discussions into lifelike speech audio with the **ElevenLabs** service.<br/><br/>"
@@ -61,7 +61,7 @@ give_feedback:
       AI Sparks Studio is a passion project by a solo developer. As such, it might lack certain features or extensive testing. Your feedback is always welcome at <span id="email"></span>
     btn_label : "Download AI Sparks Studio"
     btn_class: "btn--success"
-    url: "/download/"    
+    url: "/download-ai-sparks-studio/"    
 ---
 
 {% include feature_row id="intro" type="center" %}

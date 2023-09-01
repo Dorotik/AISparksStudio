@@ -1,5 +1,5 @@
 ---
-permalink: /download/
+permalink: /download-ai-sparks-studio/
 title: "Download"
 classes: wide
 layout: splash
