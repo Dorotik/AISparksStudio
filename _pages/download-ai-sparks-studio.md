@@ -1,6 +1,8 @@
 ---
 permalink: /download-ai-sparks-studio/
-title: "Download"
+title: "Download AI Sparks Studio - Free AI User Interface"
+title_hero: "Download"
+description: "Download AI Sparks Studio for free. Experience full control over discussions with your AI. Available for Windows 10 and 11."
 classes: wide
 layout: splash
 header:

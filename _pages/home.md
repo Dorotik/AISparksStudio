@@ -1,5 +1,7 @@
 ---
+title_hero: "AI Sparks Studio"
 layout: splash
+description: "AI Sparks Studio is a user interface for state-of-the-art AI models. Engage in expert discussions with AI models like OpenAI's ChatGPT or GPT-4, convert speech to text using the Whisper model, and transform discussions into lifelike speech audio with the ElevenLabs service."
 permalink: /
 hidden: true
 header:
