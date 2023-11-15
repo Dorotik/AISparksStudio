@@ -9,22 +9,42 @@ header:
   overlay_image: /assets/images/splash-page-main.webp
 ---
 
-Thank you for choosing AI Sparks Studio! This application is **completely free, without any ads or spyware.**
+Thank you for choosing **AI Sparks Studio**! To download the **installer**, please click the button below:
 
-As a passion project by a solo developer, AI Sparks Studio may lack certain features or extensive testing. Your feedback is always welcome at <span id="email"></span>
-
-<sup>**Version:** 1.1</sup><br>
-<sup>**Release Date:** October 11, 2023 ([Release Notes](#ai-sparks-studio-11---release-notes))</sup><br>
-<sup>**Supported Operating Systems:** Windows 10 (64-bit), Windows 11</sup><br>
 <a href="/assets/AISparksStudioSetup.exe" class="btn btn--success btn--large" onclick="window.goatcounter.count({path: 'download', title: 'Download Clicked', event: true})">
   <i class='fas fa-download'></i> AISparksStudioSetup.exe
 </a>
+
+<sup>**Supported Operating Systems:** Windows 10 (64-bit), Windows 11</sup><br>
+<sup>**Release Date:** November 15, 2023 ([Release Notes](#ai-sparks-studio-12---release-notes))</sup><br>
+<sup>**Version:** 1.2</sup><br>
+
+As a passion project by a solo developer, AI Sparks Studio may lack certain features or extensive testing. Your feedback is always welcome at <span id="email"></span>
+
+This application is **completely free, without any ads or spyware.**
 
 AI Sparks Studio is a free, non-monetized passion project and, as such, **does not carry an expensive signature from a certification authority**. This lack of certification may trigger warnings from the [Microsoft SmartScreen filter](https://en.wikipedia.org/wiki/Microsoft_SmartScreen) and various antivirus software. 
 
 If you trust this application and wish to proceed with the installation but Windows blocks the process, click *More info* and then *Run anyway*, as shown in the example below:
 
 ![Example of how to bypass the Microsoft SmartScreen filter](/assets/images/SmartScreenHelp.webp)
+
+## AI Sparks Studio 1.2 - Release Notes ##
+**Release Date: November 15, 2023**
+
+### Improvements
+1. Added full support for the GPT-4 Turbo 128K (gpt-4-1106-preview) and gpt-3.5-turbo-1106 models, and limited support for the GPT-4V Turbo 128K (gpt-4-vision-preview) model.
+2. Implemented a feature allowing the generation of multiple notes with a single API request (Text Generation - Number of Generated Notes), optimizing costs as the input text is processed only once per request.
+3. Enhanced the user interface (UI) resizing functionality by adding standard hotkeys for resizing controls, and enabling continuous size adjustment by holding the respective button/hotkey.
+
+### Changes
+1. Increased the default scale of the UI for displays with resolutions wider than 1920p, improving readability right from the start.
+2. Modified text generation request creation to include the max_tokens parameter only if the Text Generation - Maximum Token Count option is set above zero.
+
+### Fixes
+1. Resolved occasional text generation communication errors with the OpenAI service.
+
+<br>
 
 ## AI Sparks Studio 1.1 - Release Notes ##
 **Release Date: October 11, 2023**
