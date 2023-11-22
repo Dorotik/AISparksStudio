@@ -12,7 +12,7 @@ header:
       url: "/download-ai-sparks-studio/"
 excerpt: 'Experience full control over discussions with your AI.'
 intro: 
-  - excerpt: "AI Sparks Studio is **a user interface** that allows you to **efficiently utilize your own API access** to state&#8209;of&#8209;the&#8209;art AI models.<br/><br/>Engage in expert discussions with AI models like **OpenAI's ChatGPT or GPT&#8209;4**, have your speech converted to text using the capable **Whisper** model, and transform discussions into lifelike speech audio with the **ElevenLabs** service.<br/><br/>"
+  - excerpt: "AI Sparks Studio is **a user interface** that allows you to **efficiently utilize your own API access** to state&#8209;of&#8209;the&#8209;art AI models like GPT-4 or ChatGPT - a polished alternative to OpenAI Playground.<br/><br/>Engage in expert discussions with AI models like **OpenAI's GPT&#8209;4 or ChatGPT**, have your speech converted to text using the capable **Whisper** model, and transform discussions into lifelike speech audio with the **ElevenLabs** service.<br/><br/>"
 feature_model_input:
   - title: "Maintain full control and transparency over your AI interactions"
     excerpt: > 
