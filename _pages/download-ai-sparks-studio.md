@@ -16,8 +16,8 @@ Thank you for choosing **AI Sparks Studio**! To download the **installer**, plea
 </a>
 
 <sup>**Supported Operating Systems:** Windows 10 (64-bit), Windows 11 - [Installation Tips](#installation-tips)</sup><br>
-<sup>**Release Date:** November 15, 2023 - [Release Notes](#ai-sparks-studio-12---release-notes)</sup><br>
-<sup>**Version:** 1.2</sup><br>
+<sup>**Release Date:** February 16, 2024 - [Release Notes](#ai-sparks-studio-13---release-notes)</sup><br>
+<sup>**Version:** 1.3</sup><br>
 
 This application is **completely free, without any ads or spyware.**
 
@@ -32,6 +32,28 @@ AI Sparks Studio is a free, non-monetized passion project and, as such, **does n
 If you trust this application and wish to proceed with the installation but Windows blocks the process, click *More info* and then *Run anyway*, as shown in the example below:
 
 ![Example of how to bypass the Microsoft SmartScreen filter](/assets/images/SmartScreenHelp.webp)
+
+## AI Sparks Studio 1.3 - Release Notes ##
+**Release Date: February 16, 2024**
+
+### Improvements
+1. Added support for the new OpenAI models: gpt-3.5-turbo-0125, gpt-4-0125-preview, and the model name alias gpt-4-turbo-preview.
+2. Added support for the Seed parameter in OpenAI text generation.
+
+### Changes
+1. Changed the gpt-3.5-turbo model name alias to automatically switch to the gpt-3.5-turbo-0125 model pricing on 02/16/2024.
+2. Improved the sorting of the list of OpenAI models.
+3. Switched the positions of the 'Generate a new note' button and the 'Create a new note' button to prevent accidental text generation when attempting to use the 'Browse notes…' button.
+4. Ensured automatic scrolling to the beginning of the text of a note opened from the 'Browse notes…' selection screen.
+
+### Fixes
+1. Prevented the implicit creation and saving of a new named discussion during the removal of a named discussion.
+2. Prevented the display of an exception window when a gaming device (a gamepad or joystick) gets disconnected.
+3. Prevented text from overlapping their respective window areas (e.g., the Note details window) when the user interface is greatly magnified.
+4. Prevented the brief, invalid display of the 'Play this note' button immediately after the start of text generation.
+5. Prevented the display of the 'Generate a new note' button for an Assistant note that is the first in a discussion, aligning with the application's limitation of not starting text generation in an empty discussion.
+
+<br>
 
 ## AI Sparks Studio 1.2 - Release Notes ##
 **Release Date: November 15, 2023**
