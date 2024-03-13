@@ -1,7 +1,7 @@
 ---
 title_hero: "AI Sparks Studio"
 layout: splash
-description: "AI Sparks Studio is a free, user-friendly interface for your API access to top AI models like GPT-4 or ChatGPT - a polished alternative to OpenAI Playground. Engage in expert discussions with capable AI models, have your speech converted to text using Whisper, and transform discussions into lifelike speech audio with the ElevenLabs service."
+description: "AI Sparks Studio is a free, user-friendly interface for your API access to top AI models like GPT-4 — a polished alternative to OpenAI Playground. Engage in expert discussions with capable AI models, have your speech converted to text using Whisper, and transform discussions into lifelike speech audio with the ElevenLabs service."
 permalink: /
 hidden: true
 header:
@@ -12,7 +12,7 @@ header:
       url: "/download-ai-sparks-studio/"
 excerpt: 'Experience full control over discussions with your AI.'
 intro: 
-  - excerpt: "AI Sparks Studio is a **free, user&#8209;friendly interface** for your **own API access** to cutting&#8209;edge AI models like GPT&#8209;4 or ChatGPT - a polished alternative to OpenAI Playground.<br/><br/>Engage in expert discussions with AI models like **OpenAI's GPT&#8209;4 or ChatGPT**, have your speech converted to text using the capable **Whisper** model, and transform discussions into lifelike speech audio with the **ElevenLabs** service.<br/><br/>"
+  - excerpt: "AI Sparks Studio is a **free, user&#8209;friendly interface** for your **own API access** to cutting&#8209;edge AI models like GPT&#8209;4 — a polished alternative to OpenAI Playground.<br/><br/>Engage in expert discussions with AI models like **OpenAI's GPT&#8209;4**, have your speech converted to text using the capable **Whisper** model, and transform discussions into lifelike speech audio with the **ElevenLabs** service.<br/><br/>"
 feature_model_input:
   - title: "Maintain full control and transparency over your AI interactions"
     excerpt: > 

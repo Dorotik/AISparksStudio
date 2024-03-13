@@ -91,7 +91,7 @@ If you trust this application and wish to proceed with the installation but Wind
 1. Removed the display of the newly introduced OpenAI GPT Instruct models in the list of available text generation models, as they are incompatible with chat.
 2. Eliminated unintentional activation of auto-scrolling upon the completion of text generation.
 3. Rectified issues with auto-scrolling when set to a low speed.
-4. Corrected the calculation of chat completion tokens for the new ChatGPT models (0613 and above, including 16k), allowing for slightly more tokens to be used before reaching the context size limit of a model.
+4. Corrected the calculation of chat completion tokens for the new GPT-3.5 models (0613 and above, including 16k), allowing for slightly more tokens to be used before reaching the context size limit of a model.
 
 
 <script>
