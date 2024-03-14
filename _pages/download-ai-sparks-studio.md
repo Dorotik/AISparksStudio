@@ -33,6 +33,12 @@ If you trust this application and wish to proceed with the installation but Wind
 
 ![Example of how to bypass the Microsoft SmartScreen filter](/assets/images/SmartScreenHelp.webp)
 
+## API Access and Trademark Notice
+
+AI Sparks Studio is **an independently developed tool** designed to enhance your experience with cutting-edge AI technologies by providing a user-friendly interface for accessing OpenAI's and ElevenLabs' APIs. **Please note that AI Sparks Studio is not affiliated with, endorsed, or sponsored by OpenAI or ElevenLabs.** It is crafted to facilitate seamless interaction with these services, **assuming users have their own API access**. 
+
+This project aims to empower users by simplifying the process of engaging with these powerful AI models, enhancing creativity and productivity in game development and beyond. **All trademarks, service marks, trade names, product names, and logos appearing in AI Sparks Studio are the property of their respective owners.**
+
 ## AI Sparks Studio 1.3 - Release Notes ##
 **Release Date: February 16, 2024**
 
