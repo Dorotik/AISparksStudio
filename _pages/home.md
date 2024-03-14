@@ -12,7 +12,7 @@ header:
       url: "/download-ai-sparks-studio/"
 excerpt: 'Experience full control over discussions with your AI.'
 intro: 
-  - excerpt: "AI Sparks Studio is a **free, user&#8209;friendly interface** for your **own API access** to cutting&#8209;edge AI models like GPT&#8209;4 — a polished alternative to OpenAI Playground.<br/><br/>Engage in expert discussions with AI models like **OpenAI's GPT&#8209;4**, have your speech converted to text using the capable **Whisper** model, and transform discussions into lifelike speech audio with the **ElevenLabs** service.<br/><br/>"
+  - excerpt: "AI Sparks Studio is a **free, user&#8209;friendly interface** for your **own API access** to cutting&#8209;edge AI models like GPT&#8209;4 — a polished alternative to OpenAI Playground.<br/><br/>Engage in expert discussions with AI models like **OpenAI's GPT&#8209;4**, have your speech converted to text using the capable **Whisper** model, and transform discussions into lifelike speech audio with the **ElevenLabs** service.<br/><br/>**This is an independently developed tool** designed to enhance your experience with cutting-edge AI technologies by providing a user-friendly interface for accessing OpenAI's and ElevenLabs' APIs. **Please note that AI Sparks Studio is not affiliated with, endorsed, or sponsored by OpenAI or ElevenLabs.** It is crafted to facilitate seamless interaction with these services, **assuming users have their own API access**.<br/><br/>"
 feature_model_input:
   - title: "Maintain full control and transparency over your AI interactions"
     excerpt: > 
@@ -63,7 +63,10 @@ give_feedback:
       AI Sparks Studio is a passion project by a solo developer. As such, it might lack certain features or extensive testing. Your feedback is always welcome at <span id="email"></span>
     btn_label : "Download AI Sparks Studio"
     btn_class: "btn--success"
-    url: "/download-ai-sparks-studio/"    
+    url: "/download-ai-sparks-studio/"
+trademark_notice:
+  - title: ""
+    excerpt: "*All trademarks, service marks, trade names, product names, and logos are the property of their respective owners.*"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -81,6 +84,8 @@ give_feedback:
 {% include feature_row id="feature_elevenlabs_details" type="center" %}
 
 {% include feature_row id="give_feedback" type="center" %}
+
+{% include feature_row id="trademark_notice" type="center" %}
 
 <script>
 window.onload = function() {
