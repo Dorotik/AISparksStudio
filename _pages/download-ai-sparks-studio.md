@@ -16,8 +16,8 @@ Thank you for choosing **AI Sparks Studio**! To download the **installer**, plea
 </a>
 
 <sup>**Supported Operating Systems:** Windows 10 (64-bit), Windows 11 - [Installation Tips](#installation-tips)</sup><br>
-<sup>**Release Date:** February 16, 2024 - [Release Notes](#ai-sparks-studio-13---release-notes)</sup><br>
-<sup>**Version:** 1.3</sup><br>
+<sup>**Release Date:** May 16, 2024 - [Release Notes](#ai-sparks-studio-14---release-notes)</sup><br>
+<sup>**Version:** 1.4</sup><br>
 
 This application is **completely free, without any ads or spyware.**
 
@@ -38,6 +38,26 @@ If you trust this application and wish to proceed with the installation but Wind
 AI Sparks Studio is **an independently developed tool** designed to enhance your experience with cutting-edge AI technologies by providing a user-friendly interface for accessing OpenAI's and ElevenLabs' APIs. **Please note that AI Sparks Studio is not affiliated with, endorsed, or sponsored by OpenAI or ElevenLabs.** It is crafted to facilitate seamless interaction with these services, **assuming users have their own API access**. 
 
 This project aims to empower users by simplifying the process of engaging with these powerful AI models, enhancing creativity and productivity in game development and beyond. **All trademarks, service marks, trade names, product names, and logos appearing in AI Sparks Studio are the property of their respective owners.**
+
+## AI Sparks Studio 1.4 - Release Notes ##
+**Release Date: May 16, 2024**
+
+### Improvements
+1. **Added support for the new OpenAI models:** GPT-4o 'Omni' (gpt-4o-2024-05-13) and GPT-4 Turbo (gpt-4-turbo-2024-04-09).
+2. **Introduced a dark theme:** Users can now switch to a dark user interface theme.
+3. **Enhanced emoji support:** Extensive emoji support is now available through the implicit use of the Noto Emoji font.
+4. **Optimized font rendering:** Improved performance and quality of font rendering.
+5. **Boosted scrolling performance:** Significant performance improvements during scrolling, especially noticeable in longer discussions. This update is also energy-efficient, benefiting users on battery-powered devices.
+
+### Changes
+1. **Removed character limit:** There is no longer a maximum character limit for a single discussion note.
+2. **Unified model information:** Extra information about OpenAI models has been simplified and unified in the models list.
+
+### Fixes
+1. **Text control character handling:** Prevented text control characters from being interpreted incorrectly, ensuring they do not inadvertently affect displayed texts.
+2. **Text-to-speech model filtering:** Resolved the text-to-speech unsupported model error by filtering the ElevenLabs models list to show only models that support text-to-speech.
+
+<br>
 
 ## AI Sparks Studio 1.3 - Release Notes ##
 **Release Date: February 16, 2024**
