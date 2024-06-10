@@ -16,8 +16,8 @@ Thank you for choosing **AI Sparks Studio**! To download the **installer**, plea
 </a>
 
 <sup>**Supported Operating Systems:** Windows 10 (64-bit), Windows 11 - [Installation Tips](#installation-tips)</sup><br>
-<sup>**Release Date:** May 16, 2024 - [Release Notes](#ai-sparks-studio-14---release-notes)</sup><br>
-<sup>**Version:** 1.4</sup><br>
+<sup>**Release Date:** June 10, 2024 - [Release Notes](#ai-sparks-studio-15---release-notes)</sup><br>
+<sup>**Version:** 1.5</sup><br>
 
 This application is **completely free, without any ads or spyware.**
 
@@ -38,6 +38,23 @@ If you trust this application and wish to proceed with the installation but Wind
 AI Sparks Studio is **an independently developed tool** designed to enhance your experience with cutting-edge AI technologies by providing a user-friendly interface for accessing OpenAI's and ElevenLabs' APIs. **Please note that AI Sparks Studio is not affiliated with, endorsed, or sponsored by OpenAI or ElevenLabs.** It is crafted to facilitate seamless interaction with these services, **assuming users have their own API access**. 
 
 This project aims to empower users by simplifying the process of engaging with these powerful AI models, enhancing creativity and productivity in game development and beyond. **All trademarks, service marks, trade names, product names, and logos appearing in AI Sparks Studio are the property of their respective owners.**
+
+## AI Sparks Studio 1.5 - Release Notes ##
+**Release Date: June 10, 2024**
+
+### Improvements
+1. **Markdown Support:** Discussion notes now automatically recognize and format text using Markdown syntax, enhancing readability and text styling. This includes automatic conversion of shortcode emojis and text smileys into graphic symbols.
+2. **Keyboard Navigation Enhancements:** Pressing the ESC key now closes any current screen. Additionally, when editing a discussion note, using the Page Down and Page Up keys will scroll the view to the cursor's position, ensuring the cursor is always visible.
+3. **Updated API Key Instructions:** Improved the instructions shown to users who attempt to start text generation without a configured OpenAI API key, or text-to-speech generation without a configured ElevenLabs API key. The instructions provide clear guidance on how to obtain the necessary keys using their respective accounts.
+
+### Changes
+1. **API Key Validation Feedback:** The app now specifically reports issues with OpenAI API keys that do not start with 'sk-', replacing the previous generic error message.
+
+### Fixes
+1. **Hotkey Handling with Dialogs:** Fixed an issue where discussion note operations could be triggered using hotkeys even when a dialog window was open.
+2. **Discussion Note Panel Glitch:** Resolved a graphical glitch where the discussion note floating panel displayed with incorrect sizing momentarily after initiating a text generation.
+
+<br>
 
 ## AI Sparks Studio 1.4 - Release Notes ##
 **Release Date: May 16, 2024**
