@@ -19,7 +19,28 @@ Thank you for choosing **AI Sparks Studio**! To download the **installer**, plea
 <sup>**Release Date:** June 10, 2024 - [Release Notes](#ai-sparks-studio-15---release-notes)</sup><br>
 <sup>**Version:** 1.5</sup><br>
 
-This application is **completely free, without any ads or spyware.**
+## About AI Sparks Studio
+
+AI Sparks Studio is a **completely free** desktop application designed to provide users with a seamless interface for interacting with state-of-the-art AI services. This project is a labor of love by a solo developer passionate about AI and user experience. 
+
+### Why is it Free?
+This application is a passion project, created to enhance my own interactions with AI and shared freely with the community. There are no hidden costs, ads, or spyware. Your trust and feedback are my greatest rewards.
+
+## Security and Privacy
+
+Your security and privacy are paramount. AI Sparks Studio is designed with a strong focus on user data protection.
+
+- **Local Storage of API Keys:** Your API keys are stored locally on your machine and are never transmitted elsewhere. The application is transparent about where these keys are stored. You can view the path to the configuration file containing your keys at any time from the application's Settings screen.
+  
+- **User Control Over Data:** All user data, including API keys and any content created by the user, is stored in a location under the user's control. You have full control over the security of this data.
+
+- **Third-Party Services:** The application allows you to connect to third-party AI web services using API keys generated from your own accounts with these services. The application sends user data to these services only when you initiate a command to do so, such as by clicking a button. The application merely facilitates your interaction with these services and does not control or assume any responsibility for the content, policies, or practices of these third-party services.
+
+- **End User License Agreement:** AI Sparks Studio comes with a clear and comprehensive End User License Agreement (EULA) that outlines your rights and responsibilities. You can view the EULA during the installation process and at any time from the application's Settings screen. [Read the EULA]({{ site.baseurl }}{% link _pages/eula-en.md %})
+
+Please note that while AI Sparks Studio takes measures to protect your data, you are solely responsible for the security of your locally stored data and for complying with the terms and conditions of any third-party services you choose to connect with.
+
+## Your feedback is appreciated
 
 As a passion project by a solo developer, AI Sparks Studio may lack certain features or extensive testing. Your feedback is always welcome at <span id="email"></span>
 
