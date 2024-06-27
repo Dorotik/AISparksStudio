@@ -30,7 +30,7 @@ This application is a passion project, created to enhance my own interactions wi
 
 Your security and privacy are paramount. AI Sparks Studio is designed with a strong focus on user data protection.
 
-- **Local Storage of API Keys:** Your API keys are stored locally on your machine and are never transmitted elsewhere. The application is transparent about where these keys are stored. You can view the path to the configuration file containing your keys at any time from the application's Settings screen.
+- **Local Storage of API Keys:** Your API keys are stored locally on your machine. They are only transmitted securely to the respective AI services when you initiate a command, and are never shared elsewhere. The application is transparent about where these keys are stored. You can view the path to the configuration file containing your keys at any time from the application's Settings screen.
   
 - **User Control Over Data:** All user data, including API keys and any content created by the user, is stored in a location under the user's control. You have full control over the security of this data.
 
