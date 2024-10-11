@@ -47,6 +47,12 @@ As a passion project by a solo developer, AI Sparks Studio may lack certain feat
 ## Explore the Upcoming Game Development Version on Steam: ##
 <iframe src="https://store.steampowered.com/widget/2612210/?utm_source=homepage&utm_campaign=SteamRelease" frameborder="0" width="646" height="190"></iframe>
 
+## Security Acknowledgments
+
+AI Sparks Studio is grateful for the contributions of ethical hackers and security researchers who help improve the security of our project. We would like to acknowledge the following individuals for their valuable assistance:
+
+- Abdul Rehman
+
 ## Installation Tips ##
 AI Sparks Studio is a free, non-monetized passion project and, as such, **does not carry an expensive signature from a certification authority**. This lack of certification may trigger warnings from the [Microsoft SmartScreen filter](https://en.wikipedia.org/wiki/Microsoft_SmartScreen) and various antivirus software. 
 
