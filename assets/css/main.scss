@@ -1,0 +1,29 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minimal-mistakes";
+
+/* Custom Audio Player Styles */
+audio {
+  border-radius: 8px; /* Rounded corners */
+  background-color: #f0f0f0; /* Light-gray background */  
+}
+
+.audio-container {
+  display: flex;
+  flex-direction: column; /* Stack items vertically */
+  align-items: center; /* Center items horizontally */
+  gap: 10px; /* Adjust the gap between items as needed */
+  margin-bottom: 40px; /* Add bottom margin to the container */
+}
+
+.audio-item {
+  display: flex;
+  align-items: center;
+  gap: 5px; /* Adjust the gap between text and audio element */
+}
+
+.audio-item span {
+  font-weight: normal; /* Remove bold styling */
+}

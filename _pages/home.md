@@ -12,7 +12,27 @@ header:
       url: "/download-ai-sparks-studio/"
 excerpt: 'Experience full control over discussions with your AI.'
 intro: 
-  - excerpt: "AI Sparks Studio is a **free, user&#8209;friendly interface** for your **own API access** to cutting&#8209;edge AI models like GPT&#8209;4 — a polished alternative to OpenAI Playground.<br/><br/>Engage in expert discussions with AI models like **OpenAI's GPT&#8209;4**, have your speech converted to text using the capable **Whisper** model, and transform discussions into lifelike speech audio with the **ElevenLabs** service.<br/><br/>**This is an independently developed tool** designed to enhance your experience with cutting-edge AI technologies by providing a user-friendly interface for accessing OpenAI's and ElevenLabs' APIs. **Please note that AI Sparks Studio is not affiliated with, endorsed, or sponsored by OpenAI or ElevenLabs.** It is crafted to facilitate seamless interaction with these services, **assuming users have their own API access**.<br/><br/>"
+  - excerpt: |
+      AI Sparks Studio is a **free, user&#8209;friendly interface** for your **own API access** to cutting&#8209;edge AI models like GPT&#8209;4 — a polished alternative to OpenAI Playground.<br/><br/>
+      Engage in expert discussions with AI models like **OpenAI's GPT&#8209;4**, have your speech converted to text using the capable **Whisper** model, and transform discussions into lifelike speech audio with the **ElevenLabs** service.<br/><br/>
+      **This is an independently developed tool** designed to enhance your experience with cutting-edge AI technologies by providing a user-friendly interface for accessing OpenAI's and ElevenLabs' APIs. **Please note that AI Sparks Studio is not affiliated with, endorsed, or sponsored by OpenAI or ElevenLabs.** It is crafted to facilitate seamless interaction with these services, **assuming users have their own API access**.<br/><br/>
+      **NEW:** Find out more about AI Sparks Studio by listening to an **AI-generated podcast**:
+      <div class="audio-container">
+        <div class="audio-item">
+          <span>Deep Dive into AI Sparks Studio - <b>Take 1</b>:</span>
+          <audio controls>
+            <source src="/assets/audio/AI Sparks Studio - Take 1.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+          </audio>
+        </div>
+        <div class="audio-item">
+          <span>Deep Dive into AI Sparks Studio - <b>Take 2</b>:</span>
+          <audio controls>
+            <source src="/assets/audio/AI Sparks Studio - Take 2.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+          </audio>
+        </div>
+      </div>	  
 feature_model_input:
   - title: "Maintain full control and transparency over your AI interactions"
     excerpt: > 
